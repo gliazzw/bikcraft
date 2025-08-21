@@ -19,20 +19,24 @@
 /* Bicicletas */
 @import "./bicicletas-lista/bicicletas-lista.css";
 @import "./bicicletas-lista/bicicletas.css";
+@import "./bicicleta/bicicleta.css";
 
 /* Contato */
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
 
+/* Orçamento */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /*Bicicletas internas */ 
-@import "./bicicleta/bicicleta.css";
-@import "./bicicleta/seguro.css";
+@import "./orcamento/orcamento.css";
 
 /* Seguros */
 @import "./seguros/seguros.css";
 @import "./seguros/perguntas.css";
 @import "./seguros/vantagens.css";
+@import "./bicicleta/seguro.css";
 
 /* Termos */
 @import "./termos/termos.css";
